@@ -34,7 +34,7 @@ const speakersArray = [
     position: 'Software Engineer & Data Analyst Expert',
     description: '5 years of expericence of big data analysis and data matching of okcupid',
     imageLink: 'assets/images/khalid.jpg',
-  }
+  },
 ];
 
 const speakersDOMElement = document.querySelector('.speakers');
