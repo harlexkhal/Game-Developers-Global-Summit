@@ -1,6 +1,6 @@
-const headerDOMElement = document.querySelector('.shared_header'); 
+const headerDOMElement = document.querySelector('.shared_header');
 (() => {
-    headerDOMElement.innerHTML = `<div class="d-none d-md-block">
+  headerDOMElement.innerHTML = `<div class="d-none d-md-block">
     <nav class="navbar navbar-expand-sm bg-dark-custom text-white">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
@@ -78,7 +78,7 @@ const headerDOMElement = document.querySelector('.shared_header');
       <li class="menu_link"><a href="#">Sponsor</a><hr class="section_title_hr"/></li>
       <li class="menu_link"><a href="#">News</a><hr class="section_title_hr"/></li>
     </ul>
-    </nav>`; 
+    </nav>`;
 })();
 
 // Mobile menu implementation
@@ -91,11 +91,11 @@ const openMenu = () => {
   sideNavigationBar.classList.add('mobile_side_nav_active');
   hamburgerMenuIcon.classList.add('vanish');
   mobileMenu.classList.add('blur');
-  document.body.style.overflowY = "hidden";
+  document.body.style.overflowY = 'hidden';
 };
 
 const closeMenu = () => {
-  document.body.style.overflowY = "scroll";
+  document.body.style.overflowY = 'scroll';
   sideNavigationBar.classList.remove('mobile_side_nav_active');
   mobileMenu.classList.remove('blur');
   hamburgerMenuIcon.classList.remove('vanish');
