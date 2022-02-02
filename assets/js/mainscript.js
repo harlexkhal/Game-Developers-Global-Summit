@@ -23,6 +23,18 @@ const speakersArray = [
     description: 'Software Engineer at Nvidia corps, chief architect engineer responsible for DLSS algorithms in Nvidia graphics cards',
     imageLink: 'assets/images/hunter.jpg',
   },
+  {
+    name: 'James',
+    position: '',
+    description: 'Exploring the future of media in Facebooks first Virtual Reality app a place to discover and enjoy 360 photos and videos on Gear VR',
+    imageLink: 'assets/images/james.jpg',
+  },
+  {
+    name: 'Khalid',
+    position: 'Software Engineer & Data Analyst Expert',
+    description: '5 years of expericence of big data analysis and data matching of okcupid',
+    imageLink: 'assets/images/khalid.jpg',
+  }
 ];
 
 const speakersDOMElement = document.querySelector('.speakers');
