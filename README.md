@@ -1,4 +1,4 @@
-# Module-1 Portfolio page
+# Game Developers Global Summit | Capstone Project - Module 1
 
 > This is a complete version of my first module capstone project i built and completed on my 5th week at microverse. This is a game developers conference summit page event that happened in 2020
 
