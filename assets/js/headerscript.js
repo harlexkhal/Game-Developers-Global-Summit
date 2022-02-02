@@ -31,7 +31,7 @@ const headerDOMElement = document.querySelector('.shared_header');
         </ul>
     </nav>
     <nav class="navbar navbar-expand-sm bg-white">
-        <a class="navbar-brand p-0 m-0" href="#">   
+        <a class="navbar-brand p-0 m-0" href="index.html">   
             <img class="img-fluid" src="assets/images/logo.png" alt="Logo">
         </a>
         <ul class="navbar-nav ml-auto">

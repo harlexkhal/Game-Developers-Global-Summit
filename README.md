@@ -1,7 +1,7 @@
 # Game Developers Global Summit | Capstone Project - Module 1
 
-> This is a complete version of my first module capstone project i built and completed on my 5th week at microverse. This is a game developers conference summit page event that happened in 2020
-
+> This is a complete version of my first module capstone project i built and completed on my 5th week at microverse. This is a game developers conference summit page event that happened in 2020, A Loom video documentation for this project can be found here [Link to video documentation](https://www.loom.com/share/6a0c9b88127840648b962f42f0cea3c3
+) 
 ![screenshot](assets/images/demo1.png)
 
 My goal here is to Build a summit site from scratch, with focus on a mobile first design. take a peak at what i'v built [Live Demo](https://harlexkhal.github.io/Game-Developers-Global-Summit/). 😊
