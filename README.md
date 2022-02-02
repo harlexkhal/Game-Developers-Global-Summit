@@ -2,7 +2,7 @@
 
 > This is a complete version of my first module capstone project i built and completed on my 5th week at microverse. This is a game developers conference summit page event that happened in 2020
 
-![screenshot](assets/images/demo.png)
+![screenshot](assets/images/demo1.png)
 
 My goal here is to Build a summit site from scratch, with focus on a mobile first design. take a peak at what i'v built [Live Demo](https://harlexkhal.github.io/Game-Developers-Global-Summit/). 😊
 
